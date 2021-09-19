@@ -1,7 +1,11 @@
 # compeng2sh4-lab1-starter
 
-Section: [Insert your lab section]
+Section: L01
 
-MacID: [Insert your macID here]
+MacID: mairn1
 
-StudentID: [Insert your numerical student ID here]
+StudentID: 400293164
+
+Next Steps: Code first question
+
+Status: Lab Started Sept. 19th
