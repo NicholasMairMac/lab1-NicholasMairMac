@@ -67,7 +67,7 @@
 //===========================================================
 //=================Question 3================================  
 /*
-Write a program that takes a student’s average as an input, which is a floating point value, and prints
+Write a program that takes a student's average as an input, which is a floating point value, and prints
 4 if the average is in the range 90-100,
 3 if it is in the range 80-89,
 2 if it is in the range 70-79,
@@ -285,7 +285,7 @@ If the average is not in the range 0-100, the program should return -1 for inval
         SUITE_ADD_TEST(suite, TestQ3_3);
         SUITE_ADD_TEST(suite, TestQ3_2);
         SUITE_ADD_TEST(suite, TestQ3_1);
-        SUITE_ADD_TEST(suite, TestQ3_0);
+        SUITE_ADD_TEST(suite, TestQ3_0); //Passes?
         SUITE_ADD_TEST(suite, TestQ3_invalid_1);
         SUITE_ADD_TEST(suite, TestQ3_invalid_2);
         
