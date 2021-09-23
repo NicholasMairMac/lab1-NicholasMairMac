@@ -6,6 +6,6 @@ MacID: mairn1
 
 StudentID: 400293164
 
-Next Steps: Code first question
+Next Steps: Continue questions, Add comments, Add new test cases, double check variable legibility
 
-Status: Lab Started Sept. 19th
+Status: First 4 questions Finished
