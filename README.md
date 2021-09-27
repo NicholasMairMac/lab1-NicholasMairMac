@@ -1,4 +1,4 @@
-# compeng2sh4-lab1-starter
+# COMPENG2sh4-lab1-starter
 
 Section: L01
 
